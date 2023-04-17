@@ -198,3 +198,4 @@ print(predictDisease("Itching,Skin Rash,Nodal Skin Eruptions"))
 
 
 #35 seconds result in Google colab
+
