@@ -1,3 +1,0 @@
-this is my code for classifying male or female using SVM in Python programming with 100 accuracy
-
-copy female path and male path and paste it in the file extraction part and execute all moduless
