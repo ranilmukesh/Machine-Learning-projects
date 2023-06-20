@@ -199,3 +199,6 @@ print(predictDisease("Itching,Skin Rash,Nodal Skin Eruptions"))
 
 #35 seconds result in Google colab
 
+# https://www.kaggle.com/datasets/kaushil268/disease-prediction-using-machine-learning/download?datasetVersionNumber=1
+# this is the link for datasets
+
